@@ -1,0 +1,12 @@
+[
+  {
+    "category": "General",
+    "guid": "d2cda003-baa0-4351-bab9-73c86c7a0c65",
+    "name": "Trakt",
+    "description": "Syncs your Jellyfin library and watch states with trakt.tv and scrobbles what you watch. Built for Jellyfin 12.",
+    "overview": "Record your watched media with Trakt",
+    "owner": "StuxieDev",
+    "versions": [],
+    "imageUrl": "https://raw.githubusercontent.com/StuxieDev/TraktPlugin/main/Trakt/banner.png"
+  }
+]
