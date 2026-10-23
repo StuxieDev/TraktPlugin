@@ -20,3 +20,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+# The commit scripts must keep their own line endings to run
+*.sh   text eol=lf
+*.bat  text eol=crlf
